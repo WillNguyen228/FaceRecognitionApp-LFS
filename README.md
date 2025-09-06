@@ -26,7 +26,7 @@
 
 ## 📸 Demo
 
-![Face Detection Example](assets/demo_face_detection.png)  
+<img width="1275" height="1508" alt="demo_face_detection" src="https://github.com/user-attachments/assets/3b354a12-3b96-4413-bafd-1afde4f32f83" />
 *Detecting faces in real-time.*
 
 ---
