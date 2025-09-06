@@ -37,4 +37,7 @@
 
 ```bash
 git clone https://github.com/YourUsername/FaceRecognitionApp-LFS.git
-cd FaceRecognitionApp-LFS
+cd FaceRecognitionApp-LFS/app
+
+2. Run the app
+python main.py
